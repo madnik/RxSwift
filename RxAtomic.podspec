@@ -20,4 +20,5 @@ Atomic primitives for RxSwift.
   s.tvos.deployment_target = '9.0'
 
   s.source_files          = 'RxAtomic/**/*.{c,h}'
+  s.swift_version = '5.1'
 end
